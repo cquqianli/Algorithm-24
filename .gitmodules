@@ -1,3 +1,6 @@
 [submodule "src/power_rune"]
 	path = src/power_rune
 	url = https://github.com/WolfGenerals/Algorithm-24-PowerRune
+[submodule "dep/vision_opencv"]
+	path = dep/vision_opencv
+	url = https://github.com/ros-perception/vision_opencv
